@@ -4,6 +4,8 @@ Author: Janine Menne
 ## Description
 C++ class which uses a Keithley Multimeter to read out a PT1000 element.
 
+The measurement devices are connected to the PC via gpib.
+
 ## Requirements to run terminal program
 
 Availability of the following libraries (author: Janine Menne):  
